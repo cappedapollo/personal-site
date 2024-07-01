@@ -15,7 +15,7 @@ const data = {
     'shanoncrispen0329@gmail.com',
   ],
   sites: {
-    self: 'shanoncrispen.com',
+    self: 'https://personal-site-gold-ten.vercel.app/',
     linkedin: 'https://www.linkedin/in/shanoncrispen',
     github: 'https://www.github.com/cappedapollo',
     twitter: 'https://',
