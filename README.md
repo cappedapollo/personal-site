@@ -9,5 +9,4 @@ Source available here.
 ## Technologies used:
 
 - React
-- Typescript
 - Styled Components
