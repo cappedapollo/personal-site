@@ -13,7 +13,7 @@ const data = [
     image: '/images/projects/proj2.png',
     link: 'https://personeelsbeoordeling.com/',
     date: '2021-05-05',
-    desc: 'Laravel | React | lidojs',
+    desc: 'Laravel | jQuery | MySQL',
   },
   {
     title: 'CJ Venues',
