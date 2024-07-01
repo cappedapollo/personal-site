@@ -10,13 +10,13 @@ const data = {
   city: 'Rimersburg',
   state: 'PA',
   zipCode: '16248',
-  phone: '+123456789',
+  phone: '',
   email: [
     'shanoncrispen0329@gmail.com',
   ],
   sites: {
     self: 'shanoncrispen.com',
-    linkedin: 'https://www.linkedin/in/shanoncrispen-sdfjdkjdd',
+    linkedin: 'https://www.linkedin/in/shanoncrispen',
     github: 'https://www.github.com/cappedapollo',
     twitter: 'https://',
     facebook: 'https://',
@@ -50,8 +50,7 @@ const statsdata = [
     key: 'countries',
     label: 'Countries visited',
     value: 53,
-    link:
-      'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+    link: '',
   },
   {
     key: 'location',
