@@ -22,7 +22,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m {data.name}. I am a <a href="https://www.worldcampus.psu.edu/">The Pennsylvania State University</a> graduate,
         a seasoned Senior Frontend Developer with over 10 years of experience.
-        I&apos;ve worked with top firms like Nortek Consulting and Topcone Inc,
+        I&apos;ve worked with top firms like VironIT and Code & Care,
         leading web application projects and optimizing user experiences.
       </p>
       <ul className="actions">

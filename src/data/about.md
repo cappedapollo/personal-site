@@ -24,11 +24,11 @@ I am a seasoned Senior Software Frontend Developer with over 10 years of experie
 
 - From 2008 to 2012, I attended The Pennsylvania State University, where I earned a Bachelor's degree in Computer Science. During my college years, I worked on various projects, including developing a campus event management system and a social networking site for students.
 
-- After graduating in 2012, I started my professional career as a Full Stack Web Developer at LISTSLINK. Here, I honed my skills in the MERN/MEVN stack, working on end-to-end web applications and collaborating with cross-functional teams.
+- After graduating in 2012, I started my professional career as a Full Stack Web Developer at Rivers Agile. Here, I honed my skills in the MERN/MEVN stack, working on end-to-end web applications and collaborating with cross-functional teams.
 
 - In 2016, I joined Topcone Inc as a Front End Software Developer. Leading the design and development of interactive web applications for a Fortune 500 company, I focused on optimizing website performance and user experience.
 
-- By 2021, I was promoted to Senior Software Engineer at Nortek Consulting Inc. My role involved developing responsive web applications, implementing interactive features, and collaborating with designers and back-end developers to ensure seamless user experiences.
+- By 2021, I was promoted to Senior Software Engineer at VironIT. My role involved developing responsive web applications, implementing interactive features, and collaborating with designers and back-end developers to ensure seamless user experiences.
 
 - Throughout my career, I've continuously updated my skills and knowledge in front-end technologies. My expertise includes JavaScript, TypeScript, HTML, CSS, React, Angular, Vue.js, and various other frameworks and libraries.
 
@@ -46,24 +46,6 @@ I am a seasoned Senior Software Frontend Developer with over 10 years of experie
 - Sailing and the sea
 - Space
 - Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
-
-<!-- # Travel / Geography
-
-- I am originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York City.
-- I've been to approximately 50 countries, some of which I have forgotten, many of which I would like to revisit.
-- In 2016, I visited Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited Canada, England, France, and Switzerland.
-- In 2020, I traveled barely 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I continued remodeling an apartment.
-- In 2022, I switched jobs and visited the UK, France, Greece, Belgium, Luxembourg, Germany, and Kenya.
-- In 2023, I visited France, the UK, Ireland, and Rwanda.
-- I am an Oregon Trail II enthusiast. -->
 
 # Fun facts
 
@@ -83,22 +65,3 @@ I am a seasoned Senior Software Frontend Developer with over 10 years of experie
 - Staying curious.
 - Continually improving.
 - You not checking the commit history for earlier drafts of this file.
-
-<!-- # Websites from people I admire
-
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com)
-
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me and I'll add you. -->
