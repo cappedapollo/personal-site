@@ -34,8 +34,8 @@ const contacts = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/michael-d-angelo',
-    label: 'Angel List',
+    link: 'https://wellfound.com/u/shanon-crispen',
+    label: 'WellFound',
     icon: faAngellist,
   },
   {

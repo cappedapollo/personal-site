@@ -16,7 +16,7 @@ const data = {
   ],
   sites: {
     self: 'https://personal-site-gold-ten.vercel.app/',
-    linkedin: 'https://www.linkedin/in/shanoncrispen',
+    linkedin: 'https://www.linkedin/in/shanon-fullstack-dev/',
     github: 'https://www.github.com/cappedapollo',
     twitter: 'https://',
     facebook: 'https://',
